@@ -1,0 +1,20 @@
+THANKS FOR Downloading OSPXPRO v4 SMM Panel Script
+
+How to install this script?
+
+1. Upload Script in cpanel
+1.> PHP Version : eaPHP 7.1
+2.> Create New database
+3.> Update your database details 
+public_html/app/config.php
+4.> Import sql file from phpMyAdmin
+
+
+For Admin >> 
+Username:- admin@admin.com
+Password:- 123456
+
+Any Query and Support >> 
+https://www.telegram.dog/smm_scripts
+
+current script credit DP
